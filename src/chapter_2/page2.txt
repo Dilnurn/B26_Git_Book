@@ -1,0 +1,10 @@
+
+
+SDLC Six Steps
+
+1.Requirement gathering
+2.Design
+3.Develop
+4.Test
+5.Release
+6.Maintenance
